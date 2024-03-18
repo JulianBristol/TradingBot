@@ -9,7 +9,7 @@ from finbert_utils import estimate_sentiment #Uses AI to calculate sentiment fro
 import math
 import ssl
 
-API_KEY = ""
+API_KEY = "" 
 API_SECRET = ""
 BASE_URL = ""
 
